@@ -71,7 +71,7 @@ juce_add_plugin(
   COMPANY_NAME
     "a3p" 
   PLUGIN_MANUFACTURER_CODE
-    A3p
+    A3me
   PLUGIN_CODE
     Trow
   FORMATS
