@@ -71,9 +71,9 @@ juce_add_plugin(
   COMPANY_NAME
     "a3p" 
   PLUGIN_MANUFACTURER_CODE
-    a3p
+    A3p
   PLUGIN_CODE
-    Tra3p
+    Trem
   FORMATS
     Standalone
     AU
