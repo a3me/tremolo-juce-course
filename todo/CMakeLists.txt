@@ -61,7 +61,7 @@ if(CMAKE_SYSTEM_NAME STREQUAL "Windows")
 endif()
 
 # Adds a plugin target.
-set(TREMOLO_PLUGIN_NAME "Tremolo")
+set(TREMOLO_PLUGIN_NAME "Tremowo")
 juce_add_plugin(
   TremoloCoursePlugin
   PRODUCT_NAME
@@ -73,7 +73,7 @@ juce_add_plugin(
   PLUGIN_MANUFACTURER_CODE
     A3p
   PLUGIN_CODE
-    Trem
+    Trow
   FORMATS
     Standalone
     AU
